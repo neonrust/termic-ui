@@ -1,0 +1,6 @@
+[submodule "extern/termic"]
+	path = extern/termic
+	url = git@github.com:neonrust/termic
+[submodule "extern/TheWisp-signals"]
+	path = extern/TheWisp-signals
+	url = git@github.com:TheWisp/signals.git
